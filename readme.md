@@ -14,13 +14,13 @@ Topic generation is accomplished using [Latent Dirichlet Allocation (LDA)](https
 
 The **Home** page contains the page selection menu in an expandable sidebar and a short description of the application.
 
-![1756911732731](D:\Python\NLP\TopicVis\docs\images\readme\HomePage.png)
+![1756911732731](docs/images/readme/HomePage.png)
 
 ## <span style="color:darkorange"> File Selection</span>
 
 The **File Selection** page allows you to load a PDF file and set parameters for pre-processing. This cleans the document text, converting it into a form more suitable for topic modelling.
 
-![1756911756183](D:\Python\NLP\TopicVis\docs\images\readme\FileSelection.png)
+![1756911756183](docs/images/readme/FileSelection.png)
 
 ### <span style="color:green">Display Parameters</span>
 
@@ -60,7 +60,7 @@ When the <span style="color:navajowhite">**Process File**</span> button is press
 
 These text exploration techniques provide you with information about the basic structure and content of the manuscript you are indexing.
 
-![1756911802850](D:\Python\NLP\TopicVis\docs\images\readme\TextExplore.png)
+![1756911802850](docs/images/readme/TextExplore.png)
 
 ### <span style="color:green">Data File</span>
 
@@ -102,7 +102,7 @@ This page visually displays potential topics found by [SkLearn](https://scikit-l
 
 *I recommend you create a visualization with the default parameters* to see a rough approximation, then start tweaking to produce what you believe are the correct number of topics. 
 
-![1756912121179](D:\Python\NLP\TopicVis\docs\images\readme\Visualization.png)
+![1756912121179](docs/images/readme/Visualization.png)
 
 ### <span style="color:green">JSON</span>
 
