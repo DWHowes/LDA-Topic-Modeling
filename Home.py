@@ -84,7 +84,7 @@ st.set_page_config(
         ##### Github repo:
         Application released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license
         ''',
-        "Get Help": "https://github.com/DWHowes/TopicVis/tree/main/docs/help.md"
+        "Get Help": "https://github.com/DWHowes/LDA-Topic-Modeling/blob/main/readme.md"
     }
     )
 
