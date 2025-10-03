@@ -14,7 +14,7 @@ Topic generation is accomplished using [Latent Dirichlet Allocation (LDA)](https
 
 The **Home** page contains the page selection menu in an expandable sidebar and a short description of the application.
 
-![1756911732731](https://github.com/DWHowes/LDA-Topic-Modeling/tree/main/docs/images/readme/HomePage.png)
+![1756911732731](docs/images/readme/HomePage.png)
 
 ## <span style="color:darkorange"> File Selection</span>
 
